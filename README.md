@@ -12,6 +12,12 @@ This project is in beta. It is maintained by QClaw on my MacBook. If updates are
 
 ---
 
+Latest daily: None yet
+
+Latest weekly: None yet
+
+---
+
 Powered by: [follow-builders skill](https://github.com/zarazhangrui/follow-builders) Version [#6f83383](https://github.com/zarazhangrui/follow-builders/commit/6f83383f2c07fc2117596d2a1afc71af0b5ac5b9).
 
 Executed by: [QClaw](https://qclaw.qq.com/).
