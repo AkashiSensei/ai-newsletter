@@ -12,7 +12,7 @@
 
 ---
 
-最新日报: 暂无
+最新日报: ai-digest-2026-04-19-Sun.md [中文](zh/daily/ai-digest-2026-04-19-Sun.md) | [English](en/daily/ai-digest-2026-04-19-Sun.md) | [双语](bilingual/daily/ai-digest-2026-04-19-Sun.md)
 
 最新周报: 暂无
 
